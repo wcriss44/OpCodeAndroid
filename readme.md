@@ -6,7 +6,7 @@ Nearby events and meetups
 Ability to talk to slack members and mentors through the app
 Current scholarship opportunities from operation code database
 
-[Wireframe](
+[Wireframe](wireframe.png)
 
 ## Contribution
 Currently, this project is being developed as part of a class assignment. As such, contribution is limited to members of the development team. After April 28th, the project will be turned over to Operation Code and open for public contribution.
