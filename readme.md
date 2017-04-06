@@ -1,10 +1,12 @@
 # Android app for [Operation Code](https://operationcode.org/about)
 Operation code is a non-profit that empowers the military community to learn software development, enter the tech industry, and code the future.
+
 The main features of this app are:
-Slack integration that allows push notifications through slash commands in slack
-Nearby events and meetups
-Ability to talk to slack members and mentors through the app
-Current scholarship opportunities from operation code database
+
+- Slack integration that allows push notifications through slash commands in slack
+- Nearby events and meetups
+- Ability to talk to slack members and mentors through the app
+- Current scholarship opportunities from operation code database
 
 ![ScreenShot](https://raw.githubusercontent.com/wcriss44/OpCodeAndroid/master/wireframe.png)
 
@@ -22,7 +24,7 @@ Currently, this project is being developed as part of a class assignment. As suc
 - Slack API Integration for locations
   - Used in conjunction with meetups and nearby
 - Slack API integration for messaging
-  - Need to allow communication with nearby Operation Code members as well as mentor
+  - Needed for communication with nearby Operation Code members as well as mentor
 - Meetup API for nearby
 - Operation Code API for scholarships
 
